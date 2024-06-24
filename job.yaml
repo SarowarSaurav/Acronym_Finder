@@ -1,6 +1,0 @@
-experiment_name: gradio-experiment
-compute: your-compute-cluster
-environment:
-  name: gradio-env
-  conda_file: conda.yaml
-entry_script: run_gradio.py
